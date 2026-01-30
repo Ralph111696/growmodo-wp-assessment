@@ -18,3 +18,13 @@
 - HTML / CSS
 - Advanced Custom Fields (free)
 - GitHub for version control
+## Approach
+
+This theme was built from scratch based on the provided Figma design.
+Due to the 4-hour time constraint, the implementation focuses on:
+- Core layout structure
+- Custom WordPress templates
+- ACF-powered content sections
+- Clean, readable PHP and CSS
+
+Further visual refinements and animations can be added with additional time
