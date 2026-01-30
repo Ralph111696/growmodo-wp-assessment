@@ -1,2 +1,20 @@
-# growmodo-wp-assessment
-WordPress theme assessment for Growmodo
+## What was implemented
+- Custom WordPress theme (no page builders)
+- Core templates:
+  - Homepage (`front-page.php`)
+  - About page
+  - Services page (ACF-powered)
+  - Blog index (`home.php`)
+  - Single post (`single.php`)
+- WordPress menu integration
+- Advanced Custom Fields for structured content
+  - Homepage hero
+  - Services content
+- Responsive layout using CSS Grid and Flexbox
+- Clean, readable PHP templates following WordPress best practices
+## Tools Used
+- WordPress
+- PHP
+- HTML / CSS
+- Advanced Custom Fields (free)
+- GitHub for version control
